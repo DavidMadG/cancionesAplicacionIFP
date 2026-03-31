@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "cancion1",
+    "url": "https://github.com/DavidMadG/cancionesAplicacionIFP/blob/main/Cancion1.mp3"
+  },
+  {
+    "nombre": "cancion2",
+    "url": "https://github.com/DavidMadG/cancionesAplicacionIFP/blob/main/Cancion2.mp3"
+  },
+  {
+    "nombre": "cancion3",
+    "url": "https://github.com/DavidMadG/cancionesAplicacionIFP/blob/main/Cancion3.mp3"
+  }
+]
